@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluxMigrate", "InfluxMigrate\InfluxMigrate.csproj", "{B867149B-FF1C-4E76-B7CC-2FDE69335461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B867149B-FF1C-4E76-B7CC-2FDE69335461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B867149B-FF1C-4E76-B7CC-2FDE69335461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B867149B-FF1C-4E76-B7CC-2FDE69335461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B867149B-FF1C-4E76-B7CC-2FDE69335461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 60e8fb80-dd16-4cec-9ba2-777239b42cbf
+	EndGlobalSection
+EndGlobal
